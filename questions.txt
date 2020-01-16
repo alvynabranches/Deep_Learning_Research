@@ -1,2 +1,11 @@
-How to combine algorithms with 
+How to combine algorithms with RNN or NN?
 Which activation function to use on this problem statement?
+Best learning rate? And will it change according to the layer in the NN?
+How many hidden layers to choose for what type of problems?
+
+
+
+
+
+
+How to use multi processing in python when GPU is not available?
