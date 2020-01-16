@@ -2,7 +2,7 @@ How to combine algorithms with RNN or NN?
 Which activation function to use on this problem statement?
 Best learning rate? And will it change according to the layer in the NN?
 How many hidden layers to choose for what type of problems?
-
+How many epoch do we need while running the NN with lr=10**-3
 
 
 
