@@ -9,3 +9,4 @@ How to select the dropout rate?
 
 
 How to use multi processing in python when GPU is not available?
+How to use GPU on Pytorch and Tensorflow?
